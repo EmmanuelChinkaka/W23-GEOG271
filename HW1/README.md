@@ -1,5 +1,5 @@
 
-# HW 1: 
+# HW 1: Self-introduction and creating Github Account
 
 # Introduce yourself on Canvas 
 
