@@ -1,7 +1,7 @@
 
 # HW 1: Self-introduction and creating Github Account
 
-# Introduce yourself on Canvas 
+# Introduce yourself on Canvas and follow the instructions below to create an account on Github
 
 # Assignment 1: 
 - make an account on GitHub if you do not have one yet. Here are some screenshots that describe the process (note that I have an account with username EmmanuelChinkaka, as you know, in the screenshots below I am pretending to make a new one as if I did not have one)
